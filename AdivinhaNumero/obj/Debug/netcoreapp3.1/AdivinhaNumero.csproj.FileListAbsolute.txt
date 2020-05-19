@@ -1,0 +1,13 @@
+C:\Users\Junio Goncalves\OneDrive\Projetos\C#\TP\AdivinhaNumero\bin\Debug\netcoreapp3.1\AdivinhaNumero.exe
+C:\Users\Junio Goncalves\OneDrive\Projetos\C#\TP\AdivinhaNumero\bin\Debug\netcoreapp3.1\AdivinhaNumero.deps.json
+C:\Users\Junio Goncalves\OneDrive\Projetos\C#\TP\AdivinhaNumero\bin\Debug\netcoreapp3.1\AdivinhaNumero.runtimeconfig.json
+C:\Users\Junio Goncalves\OneDrive\Projetos\C#\TP\AdivinhaNumero\bin\Debug\netcoreapp3.1\AdivinhaNumero.runtimeconfig.dev.json
+C:\Users\Junio Goncalves\OneDrive\Projetos\C#\TP\AdivinhaNumero\bin\Debug\netcoreapp3.1\AdivinhaNumero.dll
+C:\Users\Junio Goncalves\OneDrive\Projetos\C#\TP\AdivinhaNumero\bin\Debug\netcoreapp3.1\AdivinhaNumero.pdb
+C:\Users\Junio Goncalves\OneDrive\Projetos\C#\TP\AdivinhaNumero\obj\Debug\netcoreapp3.1\AdivinhaNumero.csprojAssemblyReference.cache
+C:\Users\Junio Goncalves\OneDrive\Projetos\C#\TP\AdivinhaNumero\obj\Debug\netcoreapp3.1\AdivinhaNumero.csproj.CoreCompileInputs.cache
+C:\Users\Junio Goncalves\OneDrive\Projetos\C#\TP\AdivinhaNumero\obj\Debug\netcoreapp3.1\AdivinhaNumero.AssemblyInfoInputs.cache
+C:\Users\Junio Goncalves\OneDrive\Projetos\C#\TP\AdivinhaNumero\obj\Debug\netcoreapp3.1\AdivinhaNumero.AssemblyInfo.cs
+C:\Users\Junio Goncalves\OneDrive\Projetos\C#\TP\AdivinhaNumero\obj\Debug\netcoreapp3.1\AdivinhaNumero.dll
+C:\Users\Junio Goncalves\OneDrive\Projetos\C#\TP\AdivinhaNumero\obj\Debug\netcoreapp3.1\AdivinhaNumero.pdb
+C:\Users\Junio Goncalves\OneDrive\Projetos\C#\TP\AdivinhaNumero\obj\Debug\netcoreapp3.1\AdivinhaNumero.genruntimeconfig.cache
